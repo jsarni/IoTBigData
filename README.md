@@ -29,3 +29,8 @@ Le but ici est de réaliser une chope de bière connectée. Elle donne diverses 
 * Petite LED
 * Module de charge MicroUSB
 * Support en bois
+
+## Simulation TinkerCAD
+
+Lien vers la [Simulation](https://www.tinkercad.com/things/dqLPqOxUHBY-swanky-maimu/editel?sharecode=kUi3NEAFNBfVyIEl8KEEb5E6zkQEJAd9gWxg6sQKuk4)
+
