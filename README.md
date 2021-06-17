@@ -11,6 +11,9 @@ Le but ici est de réaliser une chope de bière connectée. Elle donne diverses 
 
 ## Schéma
 
+![Avant](chope_1.png)
+
+![Arrière](chope_2.png)
 
 ## Composants
 * Batterie rechargeable (caractéristiques à définir)
