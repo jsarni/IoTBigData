@@ -26,6 +26,7 @@ Le but ici est de réaliser une chope de bière connectée. Elle donne diverses 
 * Capteur de niveau de remplissage [TalkJoy](https://www.amazon.fr/Indicateur-remplissage-akustisches-davertissement-anti-d%C3%A9bordement/dp/B07BFKDM7G)
 * Bouton d'allumage
 * Capteur thermique
+* Capteur d'inclinaison
 * Petite LED
 * Module de charge MicroUSB
 * Support en bois
